@@ -164,7 +164,7 @@ N×N 패턴과 필터의 MAC 연산에서는 모든 위치를 한 번씩 확인�
 
 ## 상세 실행 기록
 
-- [프로젝트 및 Git 연결 확인](docs/01_project_setup.md)
+- [프로젝트 및 Git 연결 확인](docs/logs/01_project_setup.md)
 - [3×3 사용자 입력 모드](docs/02_user_input_mode.md)
 - [data.json 분석 모드](docs/03_json_analysis.md)
 - [성능 분석 및 결과 요약](docs/04_performance_and_result.md)
